@@ -15,8 +15,8 @@
 ESTADO DEL JUGADOR:
     ID      : #001
     Alias   : Vantix
-    Nivel   : 1 (Basics)
-    Status  : Online
+    Nivel   : 1 (Básico)
+    Estatus  : Online
 '''
 
 # 2. int (entero)
